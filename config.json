@@ -1,0 +1,10 @@
+{
+  "name": "MicroRootAI",
+  "version": "1.0.0",
+  "description": "AI-powered sustainable farming system",
+  "settings": {
+    "moisture_tracking": true,
+    "auto_irrigation": true,
+    "blockchain_logging": true
+  }
+}
